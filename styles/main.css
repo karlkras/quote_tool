@@ -1,0 +1,359 @@
+body {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    background-color:#FFFFFF;
+
+}
+
+td {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+th {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+form {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+input {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+input[type="text"].decimalOnly, .wholeNumberOnly, .asp, .summary, .cost, .csppu{
+    text-align:right;
+}
+
+input[type="text"][id^='perword-']{
+    text-align:left;
+}
+
+/*input[type="text"].decimalOnly, .asp, .summary, .cost, [id^='perword-'], .csppu{
+    width: 110px;
+}*/
+input[type="text"].asp,.summary,.cost{
+    width: 110px;
+}
+
+.bpControlBoddy {
+    margin: 10px 0px 20px 100px;
+}
+
+.sectionDiv {
+    margin: 10px 0px 20px 0px;
+    border-top: 1px solid blue; 
+    border-bottom: 1px solid blue;
+    width: 450px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+.nextSectionDiv {
+    margin: 0px 0px 20px 0px;
+    border-bottom: 1px solid blue;
+    width: 450px;
+    padding-bottom: 5px;
+}
+
+.chosen-select-sourcelang{
+    width:220px;
+}
+
+input[type="text"].summary {
+    font-weight: bold;
+}
+
+.add_fee_discount_descript {
+    padding-left: 100px;
+}
+
+tr.bordered {
+    outline: thin solid;
+}
+
+.total_title {
+    border: none;
+    text-align: right;
+}
+
+.unitcount {
+    text-align:right;
+}
+
+textarea {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+select {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+ul {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    list-style-type: disc;
+    list-style-position: outside;
+}
+
+li {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+ol {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    list-style-type: upper-roman;
+    list-style-position: outside;
+}
+
+.small {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 9px;
+}
+
+.big {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+
+.bodystyle {
+    font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+.customindicator {
+    background-color:#FFCC00; 
+    color:white
+}
+.box1 {
+    padding: 3px;
+    border-width: thin;
+    border-style: solid;
+    border-color: #CCCCCC #666666 #666666 #CCCCCC;
+}
+
+div.sectionHeader {
+    text-align: center;
+    font-weight:bold;
+    color:#4892BE;
+}
+
+.box2 {
+    border-width: 3px;
+    border-style: solid;
+    padding: 5px;
+}
+
+legend {
+    font-weight:bold;
+    color:#D90010;
+}
+
+legend.ballParker {
+    color:#4892BE;
+}
+
+
+fieldset {
+    background-color:#FFFFCC;
+    padding-top:1px;
+    padding-bottom:5px;
+    margin-bottom:15px;
+    width:75%;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+fieldset.bpfieldset {
+    background-color:#CCFFF6;
+    padding-bottom:5px;
+    margin-bottom:15px;
+    width:75%;
+    position:absolute;
+    left: 10%;
+}
+
+div#wrapper {
+    width:900px;
+
+    margin-left:auto;
+    margin-right:auto;
+
+}
+
+.editable {
+    background-color:#C2E9FE;
+}
+
+div#buttons {
+    text-align:center;
+}
+
+H1 {
+    text-align: center;
+}
+
+.instruction
+{
+    font-size:0.75em;
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+    font-weight:bold;
+}
+
+#ballparkFields
+{
+    display:inline;
+}
+
+#quoteForm
+{
+    display:inline;
+}
+
+#archiveForm
+{
+    display:none;
+}
+
+#sellPriceField
+{
+    background-color:#C8D2FB;
+
+}
+
+#sellPriceLegend
+{
+    color:#000000;
+
+}
+
+#costField
+{
+    background-color:#F5D19A;
+
+}
+
+#costLegend
+{
+    color:#000000;
+
+}
+
+#gmField
+{
+    background-color:#AAFBB8;
+
+}
+
+#gmLegend
+{
+    color:#000000;
+
+}
+
+input.noneditable
+{
+    background: #C2E9FE;
+}
+
+input.customprice
+{
+    background:#F87679;
+}
+
+.pbPMNormalState {
+    border:0; 
+    color:#f6931f; 
+    font-weight:bold;
+    width:40px;
+}
+
+.pbPMCustomState {
+    border:0; 
+    color:back; 
+    width:40px;
+    background:#F87679;
+}
+
+.errorMsg {
+    font-weight:bold; 
+    font-style:italic; 
+    font-size:smaller; 
+    /*padding-left: 30px;*/
+    color:red;
+}
+
+.smallNumberEntry {
+    width: 60px;
+}
+
+.languageMinimum
+{
+    background-color:#FC6;
+}
+
+.translationMinimum
+{
+    background-color:#FC6;
+}
+
+.costMinimum
+{
+    background-color:#A3BBEF;
+}
+
+.priceMinimum
+{
+    background-color:#DD9FEC;
+}
+
+.priceLLS
+{
+    background-color:#57E0DA;
+}
+
+.userOverrideHigher
+{
+    color: white; 
+    background-color: rgb(0, 221, 0);
+}
+
+.userOverrideLower
+{
+    color: white; 
+    background-color: rgb(221, 0, 0);
+}
+
+.hideShow {
+    display: none;
+}
+.custHideShow {
+    display: none;
+}
+
+td.totalSpacer {
+    font-size: 0px;
+    border: 0;
+}
+
+.totalRow {
+    border-top: 4px #737171 solid;
+    padding: 0;
+    font-size: 0px;
+}
+
+#loading {
+    position: absolute;
+    width: 	100%;
+    height: 20px;
+    left:0;
+    background: rgba(255,255,255,0.4) url('../images/small-loading.gif') center center no-repeat;
+    display: 	none;
+}

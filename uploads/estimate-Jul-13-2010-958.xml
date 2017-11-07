@@ -1,0 +1,93 @@
+<?xml version="1.0"?>
+<estimateform>
+  <quotetype>qtEstimate</quotetype>
+  <estdate>Jul 13, 2010</estdate>
+  <projectid>215154</projectid>
+  <rep>3</rep>
+  <pm>12</pm>
+  <custype>cusClient</custype>
+  <cusName>iParadigms</cusName>
+  <prosname></prosname>
+  <projname>2366</projname>
+  <projtype>ptDoc</projtype>
+  <ptothertext></ptothertext>
+  <filetype>ftFM</filetype>
+  <deliverable>FrameMaker</deliverable>
+  <requestedservices>
+    <service>Translate</service>
+    <service>Copy Edit</service>
+    <service>Proofread</service>
+    <service>Formatting (DTP)</service>
+    <service>Graphic Design</service>
+    <service>Quality Assurance Review</service>
+    <service>File Treatment</service>
+    <service>Translation Memory creation, update, and/or maintenance</service>
+    <service>PDF Engineering</service>
+    <service>Project Management</service>
+  </requestedservices>
+  <additionalservices>
+    <Graphic_Design></Graphic_Design>
+    <PDF_Engineering>15</PDF_Engineering>
+  </additionalservices>
+  <sourcelanguage>English (US)</sourcelanguage>
+  <targetlanguages>
+    <language>Arabic</language>
+  </targetlanguages>
+  <otherlanguage>
+    <langname></langname>
+    <newtextcost></newtextcost>
+    <fuzzytextcost></fuzzytextcost>
+    <matchtextcost></matchtextcost>
+    <transhourlycost></transhourlycost>
+    <prhourlycost></prhourlycost>
+  </otherlanguage>
+  <langnumber>1</langnumber>
+  <estdeliverydate>Jul 13, 2010</estdeliverydate>
+  <rushfees>rf0</rushfees>
+  <discounts>
+    <amount>0</amount>
+    <type>percent</type>
+  </discounts>
+  <projdesc>y,lyukuyk</projdesc>
+  <generalnotes>rtyjyjyj</generalnotes>
+  <terms>30 days</terms>
+  <termsother></termsother>
+  <cycle>On Delivery</cycle>
+  <cycleother></cycleother>
+  <wordcountstyle>trados</wordcountstyle>
+  <newtext>1500</newtext>
+  <fuzzytext>0</fuzzytext>
+  <matchtext>0</matchtext>
+  <totalwords>1500</totalwords>
+  <totaltext>0</totaltext>
+  <percentleverage>0</percentleverage>
+  <linguisticcosttype>Words</linguisticcosttype>
+  <linguisticselltype>Words</linguisticselltype>
+  <proofreading>0</proofreading>
+  <lockunits>lockunits</lockunits>
+  <pagenumber>17</pagenumber>
+  <pagehour>4</pagehour>
+  <fmthours>4.25</fmthours>
+  <fmtcostper></fmtcostper>
+  <dtpcostunits>hours</dtpcostunits>
+  <dtpsellunits>hours</dtpsellunits>
+  <fmtcoord>10</fmtcoord>
+  <enggraphnum>0</enggraphnum>
+  <enggraphhour>6</enggraphhour>
+  <engtm>1.5</engtm>
+  <engineer>.75</engineer>
+  <engscap></engscap>
+  <engscaphour>8</engscaphour>
+  <qapageshour>12</qapageshour>
+  <qahours>1.5</qahours>
+  <qacoord>10</qacoord>
+  <pmhours></pmhours>
+  <pmpercentage>10</pmpercentage>
+  <addtask1></addtask1>
+  <adddesc1></adddesc1>
+  <addtask2></addtask2>
+  <adddesc2></adddesc2>
+  <addtask3></addtask3>
+  <adddesc3></adddesc3>
+</estimateform>
+

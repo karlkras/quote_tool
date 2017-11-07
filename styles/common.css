@@ -1,0 +1,110 @@
+a, a:visited {
+	color:#2a498c;
+	text-decoration:none;
+}
+a:hover {
+	color:#0a2859;
+	text-decoration:underline;
+}
+hr {
+    border: 2px solid #004698;
+}
+legend {
+    font-weight: bold;
+    color: #2a498c;
+    margin-bottom: 5px;
+}
+
+fieldset {
+    background-color: #ffffff;
+    border: none;
+}
+
+table {
+    border-collapse: collapse;
+    border: 1px solid #ccc;
+}
+
+td {
+    padding: 2px;
+}
+
+input[type="button"], input[type="submit"], button {
+    background: #2a498c;
+    color: #fff;
+    border: none;
+    padding: 10px;
+    box-shadow: 1px 1px 5px #999;
+	margin:10px;
+}
+
+input#UnlockRates {
+    background: #B32A34;
+}
+
+input[type="button"]:hover, input[type="submit"]:hover, button:hover {
+    background: #0a2859;
+	cursor:pointer;
+}
+
+button {
+    background: #999;
+}
+
+.editable {
+    background-color: #e2effb;
+}
+
+#sellPriceField {
+    background-color: #fff;
+}
+
+#sellPriceLegend {
+    color: #fff;
+    background: #2a498c;
+    width: 98%;
+    padding: 10px;
+    margin: 0;
+}
+
+#costField {
+    background-color: #fff;
+}
+
+#costLegend {
+    color: #fff;
+    background: #f8971d;
+    width: 98%;
+    display: table;
+    margin: 0;
+    padding: 10px;
+}
+
+#gmField {
+    background-color: #fff;
+}
+
+#gmLegend {
+    color: #fff;
+    background: #79ae62;
+    width: 98%;
+    display: table;
+    margin: 0;
+    padding: 10px;
+}
+
+.border {
+    border-color: #ccc;
+}
+.banner {
+    padding: 10px;
+}
+
+th {
+    padding: 10px;
+}
+
+.categoryHead {
+    background-color:#f8971d; 
+    color:#FFFFFF;
+}

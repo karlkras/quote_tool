@@ -1,0 +1,215 @@
+body {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	background-color:#FFFFFF;
+	
+}
+
+td {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+th {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+form {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+
+input {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+textarea {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+select {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+ul {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	list-style-type: disc;
+	list-style-position: outside;
+}
+
+li {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+ol {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	list-style-type: upper-roman;
+	list-style-position: outside;
+}
+
+.small {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+.big {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+.bodystyle {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.box1 {
+	padding: 3px;
+	border-width: thin;
+	border-style: solid;
+	border-color: #CCCCCC #666666 #666666 #CCCCCC;
+}
+
+.box2 {
+	border-width: 3px;
+	border-style: solid;
+	padding: 5px;
+}
+
+legend {
+	font-weight:bold;
+	color:#D90010;
+}
+
+fieldset {
+	background-color:#FFFFCC;
+	padding-top:1px;
+	padding-bottom:5px;
+	margin-bottom:15px;
+	width:75%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div#wrapper {
+	width:900px;
+	
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+div#buttons {
+	text-align:center;
+}
+
+H1 {
+	text-align: center;
+}
+
+.instruction
+{
+	font-size:0.75em;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+
+#ballparkFields
+{
+	display:inline;
+}
+
+#quoteForm
+{
+	display:inline;
+}
+
+#archiveForm
+{
+	display:none;
+}
+
+#sellPriceField
+{
+	background-color:#C8D2FB;
+	
+}
+
+#sellPriceLegend
+{
+	color:#000000;
+	
+}
+
+#costField
+{
+	background-color:#F5D19A;
+	
+}
+
+#costLegend
+{
+	color:#000000;
+	
+}
+
+#gmField
+{
+	background-color:#AAFBB8;
+	
+}
+
+#gmLegend
+{
+	color:#000000;
+	
+}
+
+input.noneditable
+{
+	background: #C2E9FE;
+}
+
+input.customprice
+{
+	background:#F87679;
+}
+
+#popUpDiv 
+{
+	position:fixed;
+	background-color:#eeeeee;
+	top:50px;
+	left:50px;
+	width:500px;
+	z-index: 9002;
+}
+
+#addLangTask 
+{
+	position:fixed;
+	background-color:#eeeeee;
+	top:50px;
+	left:50px;
+	width:500px;
+	z-index: 9003;
+}
+
+#blanket 
+{
+	background-color:#111;
+	opacity: 0.65;
+	filter:alpha(opacity=65);
+	position:absolute;
+	z-index: 9001;
+	top:0px;
+	left:0px;
+	width:100%;
+}

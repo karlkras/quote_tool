@@ -1,0 +1,16 @@
+Entered function at 1448305528.562 microsecond
+Finished processing variables at 1448305528.5887. Elapsed time = 0.02666711807251
+Finished processing non distributed tasks 1448305528.5888. Elapsed time = 9.1791152954102E-5
+Finished processing billable tasks 1448305528.5891. Elapsed time = 0.00031304359436035
+Finished processing linguist tasks 1448305528.5956. Elapsed time = 0.0064799785614014
+Finished processing pm task 1448305528.6495. Elapsed time = 0.053899049758911
+Finished updating non distributed table 1448305528.6611. Elapsed time = 0.011666059494019
+	entered for loop. Elapsed time = 0.039970874786377
+	entered for loop. Elapsed time = 0.00020003318786621
+	entered for loop. Elapsed time = 0.0001530647277832
+Finished updating language table 1448305528.7017. Elapsed time = 0.00023102760314941
+Finished updating billable table 1448305528.7022. Elapsed time = 0.00052905082702637
+Finished generate sell total 1448305528.7712. Elapsed time = 0.069002866744995
+Finished generate cost total 1448305528.7756. Elapsed time = 0.0043759346008301
+Finished generate margin total 1448305528.8567. Elapsed time = 0.081083059310913
+Finished. Elapsed time = 0.29472708702087

@@ -1,0 +1,316 @@
+body {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	/*background-color:#4965D1;*/
+	background-color:#ffffff;
+ 
+	 
+}  
+
+table.admin
+{
+	/*background-color:#BFB96F;*/
+	background-color:#E5E5E5;
+	text-align:left;
+	border-collapse: collapse;
+}
+ 
+/*this is my fancy comment*/
+
+#table1
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+th.admin 
+{
+	background-color:#039;
+	color:#FFFFFF;
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+td.admin
+{
+	color:#124DAD;
+	padding-left: 2px;
+	padding-right: 5px;
+}
+
+td.language
+{
+	background-color:#666;
+	text-align:center;
+	font-weight:bold;
+	color:white;
+}
+
+td.note
+{
+	background-color:#F6F6F6;
+	padding: 15px 10px 15px 5px;
+
+}
+
+
+
+ul.admin
+{
+	margin-top:2px;
+	margin-bottom:2px;
+}
+
+
+
+td 
+{
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+
+p
+{
+	color:#000000;
+}
+
+form {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color:#000;
+	}
+
+input {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+textarea {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+select {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+ul {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	list-style-type: disc;
+	list-style-position: outside;
+}
+
+li {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+ol {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	list-style-type: upper-roman;
+	list-style-position: outside;
+}
+
+.small {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+.big {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 18px;
+}
+
+.bodystyle {
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.box1 {
+	padding: 3px;
+	border-width: thin;
+	border-style: solid;
+	border-color: #CCCCCC #666666 #666666 #CCCCCC;
+}
+
+.box2 {
+	border-width: 3px;
+	border-style: solid;
+	padding: 5px;
+}
+
+legend {
+	font-weight:bold;
+	color:#D90010;
+}
+
+fieldset {
+	background-color:#FFFFCC;
+	padding-top:1px;
+	padding-bottom:5px;
+	margin-bottom:15px;
+	width:75%;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+div#wrapper {
+	width:900px;
+	
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+
+div#buttons {
+	text-align:center;
+}
+
+H1 {
+	clear:both;
+	text-align: center;
+	color:#009;
+}
+
+H2
+{
+	color:#009;
+}
+
+.instruction
+{
+	font-size:0.75em;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+}
+
+
+a:visited, a
+{
+	color:#009;
+	text-decoration:none;
+}
+
+a:hover
+{
+	text-decoration:underline;
+	color:#06F;
+}
+
+table tbody tr:hover { background: #FFFFFF; }
+
+tr.nohover:hover { background:#e5e5e5; }
+
+tr.last
+{
+	border-bottom-color: #000000;
+	border-bottom-width:1px;
+	border-bottom-style:solid;
+}
+
+td.last
+{
+	margin-bottom:15px;
+}
+
+.breadcrumbs
+{
+	font-size:.8em;
+	clear:both;
+}
+
+a.breadcrumbs:visited, a.breadcrumbs
+{
+	color:#009;
+	text-decoration:none;
+}
+
+a.breadcrumbs:hover
+{
+	text-decoration:underline;
+	color:#06F;
+}
+
+div.logo
+{
+	text-align:center;
+	margin-top:15px;
+	margin-bottom:5px;
+	color:#FFFFFF;
+}
+
+.logoimg
+{
+	background-color:#FFFFFF;
+	padding:2px;
+}
+
+#popUpDiv 
+{
+	position:fixed;
+	background-color:#eeeeee;
+	top:50px;
+	left:50px;
+	width:500px;
+	z-index: 9002;
+}
+
+#addLangTask 
+{
+	position:fixed;
+	background-color:#eeeeee;
+	top:50px;
+	left:50px;
+	width:500px;
+	z-index: 9003;
+}
+
+#blanket 
+{
+	background-color:#111;
+	opacity: 0.65;
+	filter:alpha(opacity=65);
+	position:absolute;
+	z-index: 9001;
+	top:0px;
+	left:0px;
+	width:100%;
+}
+
+.logout
+{
+	float:right;
+}
+
+.centered
+{
+	margin-left:auto;
+	margin-right:auto;
+}
+
+.centerAligned
+{
+	text-align:center;
+}
+
+.rightAligned
+{
+	text-align:right;
+}
+
+.leftAligned
+{
+	text-align:left;
+}
+
+.inlineTable
+{
+	display:inline-table;
+	margin-top:10px;
+	margin-left:10px;
+}

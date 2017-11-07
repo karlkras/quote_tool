@@ -1,0 +1,1722 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xfa generator="AdobeLiveCycleDesignerES_V8.2.1.4029.1.523496" APIVersion="2.8.9029.0"?>
+<xdp:xdp xmlns:xdp="http://ns.adobe.com/xdp/" timeStamp="2010-04-13T16:07:03Z" uuid="1ce915b1-6261-4aa3-8c9a-457211dd5e34">
+<template xmlns="http://www.xfa.org/schema/xfa-template/2.8/">
+   <?formServer defaultPDFRenderFormat acrobat8.0static?>
+   <?formServer allowRenderCaching 0?>
+   <?formServer formModel both?>
+   <subform name="form1" layout="tb" locale="en_US">
+      <pageSet>
+         <pageArea id="PageArea1" name="Page1">
+            <medium short="215.9mm" long="279.4mm" stock="custom"/>
+            <draw name="Rectangle1" y="12.676mm" x="15.893mm" w="187.134mm" h="27.275mm">
+               <value>
+                  <rectangle>
+                     <edge/>
+                     <corner radius="5.08mm"/>
+                  </rectangle>
+               </value>
+            </draw>
+            <draw name="Image1" y="13.641mm" x="18.44mm" w="61.736mm" h="25.4mm">
+               <value>
+                  <image aspect="actual" contentType="image/jpg">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
+E0bNlF6goXZtzcx9fRdEX//Z</image>
+               </value>
+               <ui>
+                  <imageEdit/>
+               </ui>
+               <traversal>
+                  <traverse ref="StaticText2[0]"/>
+               </traversal>
+               <desc>
+                  <text name="embeddedHref">M:\transfer\MikeVG\Invoice\LingoLogo_new.jpg</text>
+               </desc>
+            </draw>
+            <draw name="StaticText2" y="54.074mm" x="3.84mm" anchorType="topRight" rotate="90">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Confidential</text>
+               </value>
+               <font size="72pt" typeface="Minion Pro" posture="italic">
+                  <fill>
+                     <color value="239,239,239"/>
+                  </fill>
+               </font>
+               <margin topInset="0mm" bottomInset="0mm" leftInset="0mm" rightInset="0mm"/>
+            </draw>
+            <draw name="StaticText3" y="197.243mm" x="4.995mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <exData contentType="text/html" maxLength="0">
+                     <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"><p style="letter-spacing:0in">Lingo Systems</p><p style="letter-spacing:0in">15115 SW Sequoia Pkwy</p><p style="letter-spacing:0in">Suite 200</p><p style="letter-spacing:0in">Portland, Oregon</p><p style="letter-spacing:0in">USA</p><p style="letter-spacing:0in">Phone: 503.419.4856</p><p style="letter-spacing:0in">800.878.8523</p><p style="letter-spacing:0in">Fax: 503.419.4873</p><p style="letter-spacing:0in">www.lingosys.com</p></body>
+                  </exData>
+               </value>
+               <font size="7pt" typeface="Minion Pro">
+                  <fill>
+                     <color value="153,153,153"/>
+                  </fill>
+               </font>
+               <margin topInset="0mm" bottomInset="0mm" leftInset="0mm" rightInset="0mm"/>
+               <para hAlign="center" vAlign="middle" lineHeight="17.5pt"/>
+            </draw>
+            <contentArea x="36.88mm" y="12.676mm" w="166.532mm" h="237.416mm"/>
+            <occur min="1" max="1"/>
+            <?templateDesigner expand 0?></pageArea>
+         <pageArea name="Page2" id="Page1_ID">
+            <medium short="612pt" long="792pt" stock="custom"/>
+            <contentArea x="10.374mm" y="43.414mm" w="196.506mm" h="206.678mm"/>
+            <draw name="Image2" y="12.7mm" x="77.082mm" w="61.736mm" h="25.4mm">
+               <value>
+                  <image aspect="actual" contentType="image/jpg">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
+E0bNlF6goXZtzcx9fRdEX//Z</image>
+               </value>
+               <ui>
+                  <imageEdit/>
+               </ui>
+               <desc>
+                  <text name="embeddedHref">M:\transfer\MikeVG\Invoice\LingoLogo_new.jpg</text>
+               </desc>
+            </draw>
+            <draw name="Text1" y="254.122mm" x="24.217mm" w="167.4661mm" h="11.717mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <exData contentType="text/html">
+                     <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"><p style="font-weight:bold;letter-spacing:0in">Lingo Systems</p><p style="letter-spacing:0in">15115 SW Sequoia Pakrway, #200 * Portland, OR 97224, USA * Tel: 403.419.4856 *<span style="xfa-spacerun:yes">  </span>800.878.8523 * fax: 503.419.4873</p><p style="font-style:italic;letter-spacing:0in">www.lingosys.com</p></body>
+                  </exData>
+               </value>
+               <font typeface="Myriad Pro" baselineShift="0pt" size="8pt"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <para hAlign="center" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+            </draw>
+            <?templateDesigner expand 0?></pageArea>
+         <?templateDesigner expand 1?></pageSet>
+      <desc>
+         <text name="title">Microsoft Word - Lingo Estimate_FIS eBanking Application Localization_17Feb10.doc</text>
+         <text name="creator">cball</text>
+      </desc>
+      <subform w="169.799mm" name="EstimateHead" layout="tb">
+         <subform w="166.531mm" h="38.992mm" name="Title">
+            <bind match="none"/>
+            <field name="ClientName" y="1.676mm" x="43.672mm" minH="15.784mm" minW="117.887mm">
+               <ui>
+                  <textEdit multiLine="1">
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro" size="14pt"/>
+               <margin topInset="1mm" bottomInset="1mm" leftInset="1.016mm" rightInset="1mm"/>
+               <para marginRight="7.2pt" hAlign="right"/>
+               <bind match="dataRef" ref="$.EstimateHead.ClientName"/>
+               <traversal>
+                  <traverse ref="ProjectName[0]"/>
+               </traversal>
+            </field>
+            <field name="ProjectName" y="1.019264in" x="6.353778in" minH="9mm" minW="88.164mm" anchorType="bottomRight">
+               <ui>
+                  <textEdit>
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro" size="12pt"/>
+               <margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"/>
+               <para vAlign="middle"/>
+               <bind match="dataRef" ref="$.EstimateHead.ProjectName"/>
+               <traversal>
+                  <traverse ref="header[0].ClientContact[0]"/>
+               </traversal>
+            </field>
+            <?templateDesigner expand 1?></subform>
+         <subform w="166.532mm" name="header" h="83.463mm">
+            <draw name="Rectangle8" w="51.472mm" h="25.212mm" x="115.058mm">
+               <value>
+                  <rectangle>
+                     <edge/>
+                     <corner radius="5.08mm"/>
+                  </rectangle>
+               </value>
+            </draw>
+            <draw name="Rectangle9" w="51.472mm" h="25.4mm" y="25.215mm" x="115.059mm">
+               <value>
+                  <rectangle>
+                     <edge/>
+                     <corner radius="5.08mm"/>
+                  </rectangle>
+               </value>
+            </draw>
+            <draw name="Rectangle5" w="43.987mm" h="25.4mm" y="25.216mm" x="41.677mm">
+               <value>
+                  <rectangle>
+                     <edge/>
+                     <corner radius="5.08mm"/>
+                  </rectangle>
+               </value>
+            </draw>
+            <draw name="Rectangle4" w="43.987mm" h="25.212mm" x="41.678mm">
+               <value>
+                  <rectangle>
+                     <edge/>
+                     <corner radius="5.08mm"/>
+                  </rectangle>
+               </value>
+            </draw>
+            <draw name="Rectangle2" w="41.678mm" h="25.4mm">
+               <value>
+                  <rectangle>
+                     <edge/>
+                     <fill>
+                        <color value="192,192,192"/>
+                     </fill>
+                     <corner radius="5.08mm"/>
+                  </rectangle>
+               </value>
+            </draw>
+            <draw name="Text18" y="12.706mm" x="2.669mm" w="29.2864mm" h="5.23mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Contact:</text>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="projectmanager[0]"/>
+               </traversal>
+               <?renderCache.bounds 80183 11991 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 8 Contact: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+            <field name="ClientName" w="38.344mm" y="0.533042in" x="0.081694in" minH="5.232mm" anchorType="bottomLeft">
+               <ui>
+                  <textEdit>
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0mm" bottomInset="0mm" leftInset="0mm" rightInset="1mm"/>
+               <para vAlign="middle"/>
+               <traversal>
+                  <traverse ref="Text4[0]"/>
+               </traversal>
+               <bind match="dataRef" ref="$.EstimateHead.header.ClientName"/>
+            </field>
+            <field name="ClientContact" w="42.46mm" h="23.378mm" y="0.818mm" x="42.448mm">
+               <ui>
+                  <textEdit multiLine="1">
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"/>
+               <para vAlign="middle"/>
+               <traversal>
+                  <traverse ref="Representative[0]"/>
+               </traversal>
+               <bind match="dataRef" ref="$.EstimateHead.header.ClientContact"/>
+            </field>
+            <draw name="Rectangle3" w="41.679mm" h="25.4mm" y="25.216mm">
+               <value>
+                  <rectangle>
+                     <edge/>
+                     <fill>
+                        <color value="192,192,192"/>
+                     </fill>
+                     <corner radius="5.08mm"/>
+                  </rectangle>
+               </value>
+            </draw>
+            <draw name="Rectangle6" w="29.583mm" h="25.4mm" x="85.665mm">
+               <value>
+                  <rectangle>
+                     <edge/>
+                     <fill>
+                        <color value="192,192,192"/>
+                     </fill>
+                     <corner radius="5.08mm"/>
+                  </rectangle>
+               </value>
+            </draw>
+            <draw name="Rectangle7" w="29.584mm" h="25.4mm" y="25.215mm" x="85.665mm">
+               <value>
+                  <rectangle>
+                     <edge/>
+                     <fill>
+                        <color value="192,192,192"/>
+                     </fill>
+                     <corner radius="5.08mm"/>
+                  </rectangle>
+               </value>
+            </draw>
+            <draw name="Client" w="27.107mm" h="9.459mm" locale="en_US" y="32.28mm" x="87.296mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <exData contentType="text/html">
+                     <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"><p style="letter-spacing:0in">Lingo Systems</p><p style="letter-spacing:0in">Project Manager:</p></body>
+                  </exData>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="Date[0]"/>
+               </traversal>
+            </draw>
+            <field name="Representative" w="50.074mm" h="23.238mm" y="1.343mm" x="115.822mm">
+               <ui>
+                  <textEdit multiLine="1">
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"/>
+               <para vAlign="middle"/>
+               <bind match="dataRef" ref="$.EstimateHead.header.Representative"/>
+               <traversal>
+                  <traverse ref="ClientName[0]"/>
+               </traversal>
+            </field>
+            <field name="projectmanager" w="49.434mm" h="24.204mm" y="25.833mm" x="115.866mm">
+               <ui>
+                  <textEdit multiLine="1">
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"/>
+               <para vAlign="middle"/>
+               <traversal>
+                  <traverse ref="Client[0]"/>
+               </traversal>
+               <bind match="dataRef" ref="$.EstimateHead.header.projectmanager"/>
+            </field>
+            <draw name="Text4" w="23.267mm" h="9.459mm" locale="en_US" y="7.723mm" x="87.296mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <exData contentType="text/html">
+                     <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"><p style="letter-spacing:0in">Lingo Systems</p><p style="letter-spacing:0in">Contact:</p></body>
+                  </exData>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="Text18[0]"/>
+               </traversal>
+            </draw>
+            <field name="Date" w="36.104mm" h="9mm" y="32.597mm" x="43.495mm">
+               <ui>
+                  <textEdit>
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"/>
+               <para vAlign="middle"/>
+               <bind match="dataRef" ref="$.EstimateHead.header.Date"/>
+               <traversal>
+                  <traverse ref="Text3[0]"/>
+               </traversal>
+            </field>
+            <field name="projectdescription" w="164.609mm" h="21.342mm" y="59.06mm" x="1.922mm">
+               <ui>
+                  <textEdit multiLine="1">
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"/>
+               <para vAlign="middle"/>
+               <traversal>
+                  <traverse ref="Summary[0].Text8[0]"/>
+               </traversal>
+               <bind match="dataRef" ref="$.EstimateHead.header.projectdescription"/>
+            </field>
+            <bind match="none"/>
+            <keep intact="none"/>
+            <draw name="Text3" w="29.2864mm" h="5.2331mm" y="34.382mm" x="2.081mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Date Prepared:</text>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="Text6[0]"/>
+               </traversal>
+               <?renderCache.bounds 80183 12000 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 14 Date Prepared: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+            <draw name="Text6" w="33.412mm" h="5.2331mm" y="53.63mm" x="2.112mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Description of Project:</text>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="projectdescription[0]"/>
+               </traversal>
+               <?renderCache.bounds 91877 12000 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 23 Description of Project: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+            <?templateDesigner expand 0?></subform>
+         <subform w="166.531mm" h="55.751mm" name="Summary">
+            <draw name="Rectangle11" y="7.714mm" x="36.306mm" w="125.042mm" h="48.039mm">
+               <value>
+                  <rectangle>
+                     <edge/>
+                     <corner radius="5.08mm"/>
+                  </rectangle>
+               </value>
+            </draw>
+            <draw name="Rectangle10" y="7.712mm" x="0.958mm" w="35.348mm" h="48.038mm">
+               <value>
+                  <rectangle>
+                     <edge/>
+                     <fill>
+                        <color value="192,192,192"/>
+                     </fill>
+                     <corner radius="5.08mm"/>
+                  </rectangle>
+               </value>
+            </draw>
+            <draw name="Text8" y="1.179mm" x="1.728mm" w="29.287mm" h="5.2331mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Summary:</text>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="projid[0]"/>
+               </traversal>
+               <?renderCache.bounds 80184 12000 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 8 Summary: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+            <field name="totalcost" y="25.105mm" x="38.05mm" w="106.137mm" minH="6.604mm">
+               <ui>
+                  <textEdit>
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0mm" bottomInset="0mm" leftInset="1.016mm" rightInset="1.016mm"/>
+               <para vAlign="middle" marginRight="1.44pt"/>
+               <traversal>
+                  <traverse ref="timeline[0]"/>
+               </traversal>
+               <bind match="dataRef" ref="$.EstimateHead.Summary.totalcost"/>
+            </field>
+            <field name="timeline" y="33.038mm" x="38.023mm" w="122.141mm" minH="6.604mm">
+               <ui>
+                  <textEdit>
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0mm" bottomInset="0mm" leftInset="1.016mm" rightInset="1.016mm"/>
+               <para vAlign="middle"/>
+               <traversal>
+                  <traverse ref="paymentterms[0]"/>
+               </traversal>
+               <bind match="dataRef" ref="$.EstimateHead.Summary.timeline"/>
+            </field>
+            <field name="paymentterms" y="40.968mm" x="37.925mm" w="122.239mm" minH="6.604mm">
+               <ui>
+                  <textEdit multiLine="1">
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0mm" bottomInset="0mm" leftInset="1mm" rightInset="1mm"/>
+               <traversal>
+                  <traverse ref="Text9[0]"/>
+               </traversal>
+               <bind match="dataRef" ref="$.EstimateHead.Summary.paymentterms"/>
+            </field>
+            <draw name="Text9" y="26.161mm" x="5.546mm" w="29.2864mm" h="5.2331mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Estimated Cost:</text>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="Text10[0]"/>
+               </traversal>
+               <?renderCache.bounds 80183 12000 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 15 Estimated Cost: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+            <draw name="Text10" y="34.4mm" x="5.546mm" w="29.77mm" h="5.2331mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Estimated Timeline:</text>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="Text11[0]"/>
+               </traversal>
+               <?renderCache.bounds 81553 12000 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 19 Estimated Timeline: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+            <draw name="Text11" y="42.062mm" x="5.546mm" w="29.2864mm" h="5.2331mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Payment Terms:</text>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="paymentcycle[0]"/>
+               </traversal>
+               <?renderCache.bounds 80183 12000 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 14 Payment Terms: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+            <draw name="Line1" y="32.515mm" x="0.958mm" w="160.202mm" h="0in">
+               <value>
+                  <line slope="/"/>
+               </value>
+            </draw>
+            <draw name="Line1" y="40.355mm" x="1.154mm" w="160.202mm" h="0in">
+               <value>
+                  <line slope="/"/>
+               </value>
+            </draw>
+            <bind match="none"/>
+            <?templateDesigner expand 0?>
+            <draw name="Text22" y="49.872mm" x="5.546mm" w="29.2864mm" h="5.2331mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Payment Schedule:</text>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="Text7[0]"/>
+               </traversal>
+               <?renderCache.bounds 80183 12000 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 17 Payment Schedule: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+            <draw name="Line1" y="48.128mm" x="0.892mm" w="160.202mm" h="0in">
+               <value>
+                  <line slope="/"/>
+               </value>
+            </draw>
+            <field name="paymentcycle" y="48.706mm" x="37.925mm" w="122.24mm" minH="6.604mm">
+               <ui>
+                  <textEdit>
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0mm" bottomInset="0mm" leftInset="1mm" rightInset="1mm"/>
+               <para vAlign="middle"/>
+               <bind match="dataRef" ref="$.EstimateHead.Summary. paymentcycle"/>
+               <traversal>
+                  <traverse ref="Text22[0]"/>
+               </traversal>
+            </field>
+            <draw name="Text23" y="9.351mm" x="5.546mm" w="29.2864mm" h="5.2331mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Quote Number:</text>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="srclang[0]"/>
+               </traversal>
+               <?renderCache.bounds 80183 12000 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 13 Quote Number: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+            <draw name="Text24" y="17.401mm" x="5.546mm" w="29.2864mm" h="5.2331mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Source Language:</text>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="totalcost[0]"/>
+               </traversal>
+               <?renderCache.bounds 80183 12000 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 16 Source Language: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+            <field name="projid" y="8.501mm" x="38.063mm" w="122.184mm" minH="6.604mm">
+               <ui>
+                  <textEdit>
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0mm" bottomInset="0mm" leftInset="1mm" rightInset="1mm"/>
+               <para vAlign="middle"/>
+               <bind match="dataRef" ref="$.EstimateHead.Summary.projid"/>
+               <traversal>
+                  <traverse ref="Text23[0]"/>
+               </traversal>
+            </field>
+            <field name="srclang" y="16.834mm" x="38.063mm" w="121.92mm" h="6.604mm">
+               <ui>
+                  <textEdit>
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0mm" bottomInset="0mm" leftInset="1mm" rightInset="1mm"/>
+               <para vAlign="middle"/>
+               <bind match="dataRef" ref="$.EstimateHead.Summary.srclang"/>
+               <traversal>
+                  <traverse ref="Text24[0]"/>
+               </traversal>
+            </field>
+            <draw name="Line1" y="15.978mm" x="1.235mm" w="160.202mm" h="0in">
+               <value>
+                  <line slope="/"/>
+               </value>
+            </draw>
+            <draw name="Line1" y="24.479mm" x="1.518mm" w="160.202mm" h="0in">
+               <value>
+                  <line slope="/"/>
+               </value>
+            </draw>
+         </subform>
+         <bind match="none"/>
+         <traversal>
+            <traverse operation="first" ref="Title[0].ClientName[0]"/>
+         </traversal>
+         <draw name="Text7" w="41.291mm" h="5.2331mm">
+            <ui>
+               <textEdit/>
+            </ui>
+            <value>
+               <text>Requested services include:</text>
+            </value>
+            <font typeface="Myriad Pro"/>
+            <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+            <traversal>
+               <traverse ref="services[0].servicename[0]"/>
+            </traversal>
+            <?renderCache.bounds 114211 12000 0 0 1417 1417 0 0?>
+            <?renderCache.textRun 27 Requested services include: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+         <subform name="services" w="160.543mm">
+            <margin leftInset="0mm" rightInset="0mm" topInset="0mm" bottomInset="0mm"/>
+            <field name="servicename" w="150.111mm" x="1.688mm" minH="6.483mm">
+               <ui>
+                  <textEdit multiLine="1">
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0mm" bottomInset="0mm" leftInset="0mm" rightInset="0mm"/>
+               <para vAlign="middle"/>
+               <caption reserve="2.6657mm">
+                  <font typeface="Myriad Pro" baselineShift="0pt"/>
+                  <para vAlign="middle" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+                  <value>
+                     <text>•</text>
+                  </value>
+               </caption>
+               <bind match="dataRef" ref="$.servicename"/>
+            </field>
+            <occur max="-1"/>
+            <bind match="dataRef" ref="$.EstimateHead.services[*]"/>
+            <?templateDesigner expand 1?>
+            <keep previous="contentArea" next="contentArea"/>
+            <overflow target="Page2"/>
+         </subform>
+         <?templateDesigner expand 0?></subform>
+      <subform layout="tb" w="196.116mm" name="EstimateDetail">
+         <subform name="AnalysisHead" layout="tb">
+            <draw name="Text12" w="34.996mm" h="5.2331mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Description of Services:</text>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="Table1[0].Row1[0].Text13[0]"/>
+               </traversal>
+               <?renderCache.bounds 96367 12000 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 24 Description of Services: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+            <subform name="Table1" layout="table" columnWidths="94.697mm 30.731mm 28.429mm 23.239mm">
+               <border>
+                  <edge/>
+               </border>
+               <subform layout="row" name="Row1">
+                  <assist role="TR"/>
+                  <draw name="Text13" w="30mm" minH="5.764mm">
+                     <ui>
+                        <textEdit/>
+                     </ui>
+                     <value>
+                        <text>Language/Task</text>
+                     </value>
+                     <font typeface="Myriad Pro" baselineShift="0pt">
+                        <fill>
+                           <color value="255,255,255"/>
+                        </fill>
+                     </font>
+                     <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                     <border>
+                        <edge/>
+                        <corner thickness="0.1778mm"/>
+                        <fill>
+                           <color value="128,128,128"/>
+                        </fill>
+                     </border>
+                     <traversal>
+                        <traverse ref="Text14[0]"/>
+                     </traversal>
+                     <para hAlign="center" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+                  </draw>
+                  <draw name="Text14" w="30mm" minH="5.764mm">
+                     <ui>
+                        <textEdit/>
+                     </ui>
+                     <value>
+                        <text>Quantity/Unit</text>
+                     </value>
+                     <font typeface="Myriad Pro" baselineShift="0pt">
+                        <fill>
+                           <color value="255,255,255"/>
+                        </fill>
+                     </font>
+                     <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                     <border>
+                        <edge/>
+                        <corner thickness="0.1778mm"/>
+                        <fill>
+                           <color value="128,128,128"/>
+                        </fill>
+                     </border>
+                     <traversal>
+                        <traverse ref="Text15[0]"/>
+                     </traversal>
+                     <para hAlign="center" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+                  </draw>
+                  <draw name="Text15" w="29.388mm" minH="5.764mm">
+                     <ui>
+                        <textEdit/>
+                     </ui>
+                     <value>
+                        <text>Rate/Unit</text>
+                     </value>
+                     <font typeface="Myriad Pro" baselineShift="0pt">
+                        <fill>
+                           <color value="255,255,255"/>
+                        </fill>
+                     </font>
+                     <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                     <border>
+                        <edge/>
+                        <corner thickness="0.1778mm"/>
+                        <fill>
+                           <color value="128,128,128"/>
+                        </fill>
+                     </border>
+                     <traversal>
+                        <traverse ref="Text16[0]"/>
+                     </traversal>
+                     <para hAlign="center" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+                  </draw>
+                  <draw name="Text16" w="30mm" minH="5.764mm">
+                     <ui>
+                        <textEdit/>
+                     </ui>
+                     <value>
+                        <text>Cost</text>
+                     </value>
+                     <font typeface="Myriad Pro" baselineShift="0pt">
+                        <fill>
+                           <color value="255,255,255"/>
+                        </fill>
+                     </font>
+                     <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+                     <border>
+                        <edge/>
+                        <corner thickness="0.1778mm"/>
+                        <fill>
+                           <color value="128,128,128"/>
+                        </fill>
+                     </border>
+                     <para hAlign="center" spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+                  </draw>
+                  <border>
+                     <edge presence="hidden"/>
+                  </border>
+                  <?templateDesigner expand 1?></subform>
+               <keep intact="contentArea"/>
+               <?templateDesigner rowpattern first:1, next:1, firstcolor:f0f0f0, nextcolor:ffffff, apply:0?>
+               <bind match="none"/>
+               <?templateDesigner expand 0?></subform>
+            <bind match="none"/>
+            <subform name="Language" layout="tb" w="183.028mm">
+               <margin leftInset="1mm" rightInset="1mm" topInset="1mm" bottomInset="1mm"/>
+               <field name="Language" w="176.97mm" h="9mm">
+                  <ui>
+                     <textEdit>
+                        <border presence="hidden">
+                           <?templateDesigner StyleID aped0?>
+                           <edge/>
+                        </border>
+                        <margin/>
+                     </textEdit>
+                  </ui>
+                  <font typeface="Myriad Pro"/>
+                  <margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"/>
+                  <para vAlign="middle"/>
+                  <bind match="dataRef" ref="$.Language"/>
+                  <traversal>
+                     <traverse ref="TASK[0].taskname[0]"/>
+                  </traversal>
+                  <border>
+                     <edge presence="hidden"/>
+                     <fill>
+                        <color value="192,192,192"/>
+                     </fill>
+                  </border>
+               </field>
+               <subform name="TASK" y="0.354333in" w="177.172mm">
+                  <margin leftInset="1mm" rightInset="1mm" topInset="0mm" bottomInset="0mm"/>
+                  <field name="taskname" w="93.13mm" h="9mm">
+                     <ui>
+                        <textEdit>
+                           <border>
+                              <edge presence="hidden"/>
+                              <edge presence="hidden"/>
+                              <edge/>
+                              <edge presence="hidden"/>
+                              <?templateDesigner StyleID aped1?></border>
+                           <margin/>
+                        </textEdit>
+                     </ui>
+                     <font typeface="Myriad Pro"/>
+                     <margin topInset="0mm" bottomInset="0mm" leftInset="0mm" rightInset="0mm"/>
+                     <para vAlign="middle"/>
+                     <bind match="dataRef" ref="$.taskname"/>
+                     <traversal>
+                        <traverse ref="ACTSELLPER[0]"/>
+                     </traversal>
+                  </field>
+                  <field name="NUMUNIT" w="31.056mm" h="8.999mm" y="0.001mm" x="92.929mm">
+                     <ui>
+                        <textEdit>
+                           <border>
+                              <edge presence="hidden"/>
+                              <edge presence="hidden"/>
+                              <edge/>
+                              <edge presence="hidden"/>
+                              <?templateDesigner StyleID aped1?></border>
+                           <margin/>
+                        </textEdit>
+                     </ui>
+                     <font typeface="Myriad Pro"/>
+                     <margin topInset="0mm" bottomInset="0mm" leftInset="0mm" rightInset="0mm"/>
+                     <para vAlign="middle"/>
+                     <bind match="dataRef" ref="$.NUMUNIT"/>
+                     <traversal>
+                        <traverse ref="LANGTOTAL[0]"/>
+                     </traversal>
+                  </field>
+                  <field name="ACTSELLPER" w="27.98mm" h="9mm" x="123.887mm">
+                     <ui>
+                        <textEdit>
+                           <border>
+                              <edge presence="hidden"/>
+                              <edge presence="hidden"/>
+                              <edge/>
+                              <edge presence="hidden"/>
+                              <?templateDesigner StyleID aped1?></border>
+                           <margin/>
+                        </textEdit>
+                     </ui>
+                     <font typeface="Myriad Pro"/>
+                     <margin topInset="0mm" bottomInset="0mm" leftInset="0mm" rightInset="0mm"/>
+                     <para vAlign="middle"/>
+                     <bind match="dataRef" ref="$.ACTSELLPER"/>
+                     <traversal>
+                        <traverse ref="ACTSELL[0]"/>
+                     </traversal>
+                  </field>
+                  <field name="ACTSELL" w="23.403mm" h="9mm" x="151.769mm">
+                     <ui>
+                        <textEdit>
+                           <border>
+                              <edge presence="hidden"/>
+                              <edge presence="hidden"/>
+                              <edge/>
+                              <edge presence="hidden"/>
+                              <?templateDesigner StyleID aped1?></border>
+                           <margin/>
+                        </textEdit>
+                     </ui>
+                     <font typeface="Myriad Pro"/>
+                     <margin topInset="0mm" bottomInset="0mm" leftInset="0mm" rightInset="0mm"/>
+                     <para vAlign="middle" hAlign="right"/>
+                     <bind match="dataRef" ref="$.ACTSELL"/>
+                     <traversal>
+                        <traverse ref="NUMUNIT[0]"/>
+                     </traversal>
+                  </field>
+                  <occur max="-1"/>
+                  <bind match="dataRef" ref="$.TASK[*]"/>
+                  <?templateDesigner expand 1?></subform>
+               <field name="LANGTOTAL" y="1.496069in" w="177.373mm" h="9mm">
+                  <ui>
+                     <textEdit>
+                        <border>
+                           <?templateDesigner StyleID aped3?>
+                           <edge stroke="lowered"/>
+                        </border>
+                        <margin/>
+                     </textEdit>
+                  </ui>
+                  <font typeface="Myriad Pro"/>
+                  <margin topInset="1.0008mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"/>
+                  <para vAlign="middle" hAlign="right" marginRight="1.44pt"/>
+                  <caption reserve="151.9325mm">
+                     <font typeface="Myriad Pro"/>
+                     <para vAlign="middle" hAlign="right" marginRight="1.44pt"/>
+                     <value>
+                        <text>Total:</text>
+                     </value>
+                  </caption>
+                  <bind match="dataRef" ref="$.LANGTOTAL"/>
+                  <traversal>
+                     <traverse ref="Assumptions[0].Text17[0]"/>
+                  </traversal>
+               </field>
+               <occur max="-1"/>
+               <bind match="dataRef" ref="$.EstimateDetail.Language[*]"/>
+               <?templateDesigner expand 0?>
+               <keep intact="contentArea"/>
+            </subform>
+            <?templateDesigner expand 0?>
+            <margin leftInset="2.54mm" topInset="5.08mm"/>
+         </subform>
+         <traversal>
+            <traverse operation="first" ref="AnalysisHead[0].Text12[0]"/>
+         </traversal>
+         <subform w="196.505mm" h="63.547mm" name="Assumptions">
+            <draw name="Text17" y="0.884mm" x="2.882mm" w="36.429mm" h="5.2331mm">
+               <ui>
+                  <textEdit/>
+               </ui>
+               <value>
+                  <text>Project Assumptions:</text>
+               </value>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+               <traversal>
+                  <traverse ref="TextField1[0]"/>
+               </traversal>
+               <?renderCache.bounds 100429 12000 0 0 1417 1417 0 0?>
+               <?renderCache.textRun 20 Project Assumptions: 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+            <field name="TextField1" y="6.452mm" x="2.882mm" w="182.724mm" minH="57.095mm">
+               <ui>
+                  <textEdit multiLine="1">
+                     <border presence="hidden">
+                        <?templateDesigner StyleID aped0?>
+                        <edge/>
+                     </border>
+                     <margin/>
+                  </textEdit>
+               </ui>
+               <font typeface="Myriad Pro"/>
+               <margin topInset="1mm" bottomInset="1mm" leftInset="1mm" rightInset="1mm"/>
+               <para vAlign="middle"/>
+               <bind match="dataRef" ref="$.EstimateDetail.Assumptions.TextField1"/>
+               <traversal>
+                  <traverse ref="Text19[0]"/>
+               </traversal>
+            </field>
+            <bind match="none"/>
+            <?templateDesigner expand 0?></subform>
+         <bind match="none"/>
+         <?templateDesigner expand 1?>
+         <overflow target="Page2"/>
+      </subform>
+      <draw name="Text19" w="193.21mm" h="55.987mm">
+         <ui>
+            <textEdit/>
+         </ui>
+         <value>
+            <exData contentType="text/html">
+               <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.7.0.0"><p style="letter-spacing:0in">Please note:<span style="xfa-spacerun:yes">  </span>If changes to the scope of the project are requested after approval of this estimate, we will provide you a change order. Change orders may impact the overall project budget and/or schedule.</p><p style="letter-spacing:0in"><span style="xfa-spacerun:yes"> </span></p><p style="letter-spacing:0in"><span style="xfa-spacerun:yes"> </span>Estimates are only valid for thirty days or as otherwise specified in writing.</p><p style="text-decoration:none;letter-spacing:0in"><span style="xfa-spacerun:yes"> </span></p><p style="letter-spacing:0in"><span style="xfa-spacerun:yes"> </span>To approve this quote, please sign below and email to Lingo Systems Contact listed above or fax to 503-419-4873.</p><p style="letter-spacing:0in"><span style="xfa-spacerun:yes"> </span></p><p style="letter-spacing:0in">YES!<span style="xfa-spacerun:yes">  </span>I accept and approve the Estimated Cost and Timeline outlined above. By signing, I acknowledge that I have read, understood, and agree to all terms and conditions listed below.</p><p style="letter-spacing:0in"><span style="xfa-spacerun:yes"> </span></p><p style="letter-spacing:0in">Project Approval:</p><p style="text-decoration:none;letter-spacing:0in"><span style="xfa-spacerun:yes"> </span></p><p style="letter-spacing:0in"><span style="xfa-spacerun:yes"> </span></p></body>
+            </exData>
+         </value>
+         <font typeface="Myriad Pro"/>
+         <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+         <keep next="contentArea"/>
+         <traversal>
+            <traverse ref="Text20[0]"/>
+         </traversal>
+      </draw>
+      <draw name="Text20" w="192.114mm" h="13.689mm">
+         <ui>
+            <textEdit/>
+         </ui>
+         <value>
+            <exData contentType="text/html">
+               <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.7.0.0"><p style="text-decoration:none;letter-spacing:0in">Client Signature<span style="xfa-tab-count:2">                  </span><span style="xfa-spacerun:yes">     </span><span style="xfa-tab-count:7">                                                               </span>Date</p><p style="text-decoration:none;letter-spacing:0in"><span style="xfa-spacerun:yes"> </span></p><p style="text-decoration:none;letter-spacing:0in"><span style="xfa-spacerun:yes"> </span></p></body>
+            </exData>
+         </value>
+         <font typeface="Myriad Pro"/>
+         <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+         <border>
+            <edge/>
+            <edge presence="hidden"/>
+            <edge presence="hidden"/>
+            <edge presence="hidden"/>
+            <corner/>
+         </border>
+         <traversal>
+            <traverse ref="Text21[0]"/>
+         </traversal>
+         <keep next="contentArea"/>
+      </draw>
+      <draw name="Text21" w="192.114mm" h="9.459mm">
+         <ui>
+            <textEdit/>
+         </ui>
+         <value>
+            <text>Print Name	     								Title</text>
+         </value>
+         <font typeface="Myriad Pro"/>
+         <margin topInset="0.5mm" bottomInset="0.5mm" leftInset="0.5mm" rightInset="0.5mm"/>
+         <border>
+            <edge/>
+            <edge presence="hidden"/>
+            <edge presence="hidden"/>
+            <edge presence="hidden"/>
+            <corner/>
+         </border>
+         <?renderCache.bounds 541741 23979 0 0 1417 1417 0 0?>
+         <?renderCache.textRun 10 Print Name 0 1417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?>
+         <?renderCache.textRun 5       0 73417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?>
+         <?renderCache.textRun 5 Title 0 361417 10907 0 0 0 "Myriad Pro" 0 0 10000 ISO-8859-1?></draw>
+      <subform w="194.962mm" h="206.678mm" name="TermsAndConditions1">
+         <draw x="60.503mm" y="2.686mm">
+            <font typeface="Myriad Pro"/>
+            <value>
+               <exData contentType="text/html">
+                  <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/"><p style="font-family:Myriad Pro;font-size:14pt;letter-spacing:0in">ESTIMATE TERMS AND CONDITIONS</p></body>
+               </exData>
+            </value>
+            <ui>
+               <textEdit/>
+            </ui>
+            <margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"/>
+            <traversal>
+               <traverse ref="#draw[1]"/>
+            </traversal>
+         </draw>
+         <traversal>
+            <traverse operation="first" ref="#draw[0]"/>
+         </traversal>
+         <draw x="8.979mm" y="11.905mm" w="6.976097in" h="7.668194in">
+            <font typeface="Verdana" size="8pt" baselineShift="0pt"/>
+            <value>
+               <exData contentType="text/html">
+                  <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.7.0.0"><p style="text-decoration:none;letter-spacing:0in">The following terms and conditions apply to any of the localization, translation, engineering, formatting, and other services (collectively “Service”) provided by Lingo Systems, LLC, an Oregon Limited Liability Company ("Lingo Systems"), to you and along with the accompanying Estimate, constitutes the entire Agreement between Lingo Systems and you and supersedes all prior oral or written understanding or statement with respect to the subject matter of this Agreement.</p><p style="text-decoration:underline;letter-spacing:0in">1. Charges<span style="text-decoration:none">: Charges for the Service shall be as specified by Lingo Systems to you in writing in the Estimate. Estimates are based upon specifications and information originally submitted by you, and any change therein, including delivery requirements, automatically void the quotation (or necessitate a Change Order). For example, if the Estimate is based on sample pages, a sample document used as a model, or an incomplete version of the source file, or any file other than the actual one you want localized, the amount of the estimate and the deadline may be adjusted accordingly. Adjustments to the Estimate Letter may also be necessary if specifications are changed or added, or if work not covered in the original quotation is required, or if you failed to provide complete, written specifications for the assignment. Estimates are only valid for thirty days or as otherwise specified in writing.</span></p><p style="text-decoration:underline;letter-spacing:0in">2. Orders<span style="text-decoration:none">: Orders authorized by you may only be canceled on terms that provide for payment for work commenced by Lingo Systems and necessary work-related obligations entered into pursuant to the order. Upon cancellation of any order prior to completion, Lingo Systems shall be reimbursed for all costs and expenses incurred with respect to the order prior to cancellation. Furthermore, if you change the original text, alter specifications, or add new specifications once you have authorized Lingo Systems to begin work, the changes, alterations, or additions may result in additional charges and adjustments of deadlines.</span></p><p style="text-decoration:underline;letter-spacing:0in">3. Terminology:<span style="text-decoration:none"> Unless you provide terminological reference material like glossaries or terminology lists, Lingo Systems will use its best judgment in the selection of terms pertinent to a given field. You will be charged for changes to such terms.</span></p><p style="text-decoration:underline;letter-spacing:0in">4. Appearance<span style="text-decoration:none">: When the Service includes formatting, typesetting, page layout, or artwork, Lingo Systems will seek the closest match practicable between the appearance of the original and that of the finished product or will layout as you specified. Unless the Estimate specifies otherwise, Lingo Systems does not guarantee that the format, fonts, typefaces, point sizes, text density, artwork, colors, paper, and other elements of printed documents it chooses and those of the original will be identical. Translated documents are often longer or shorter than the original, and technical or other considerations may result in elements of appearance different from the original.</span></p><p style="text-decoration:underline;letter-spacing:0in">5. Reviews<span style="text-decoration:none">: You have the right to review translated files. If you waive this right, you agree to accept the work project as is, except for gross negligence or translation errors that materially alter the meaning of the original text.</span></p><p style="text-decoration:underline;letter-spacing:0in">6. Editing<span style="text-decoration:none">: Any editing or alteration of the finished product provided to you when such product is acceptable for the language involved or when style or other matter is left to the judgment of Lingo Systems will be charged to you, except that errors in accuracy will be corrected at no extra charge.</span></p><p style="text-decoration:underline;letter-spacing:0in">7. Payment<span style="text-decoration:none">: 1) Payment for all Service provided by Lingo Systems will be due upon invoice at progress intervals and upon completion, as specified in the Estimate. 2) All errors, claims, or requests for adjustment must be presented within thirty days after the date of delivery or such work will be deemed to have been accepted. 3) Charges due and unpaid thirty (30) days after invoice shall bear interest from the date payment is due at the rate of one and one-half percent (1 1/2 %) per month (eighteen percent (18%) per annum).</span></p><p style="text-decoration:underline;letter-spacing:0in">8. Disclaimer of Warranty<span style="text-decoration:none">: Except as expressly provided in the estimate letter, all service is provided on an “as is” and “with all faults” basis, and Lingo Systems makes no guarantee, warranty, or representation expressed or implied, regarding the condition, merchantability, or fitness of the service for any particular use or purpose. Your reliance on the service to incur an obligation or make a decision, among other things, is at your own risk.</span></p><p style="text-decoration:underline;letter-spacing:0in">9. Limitation of Liability<span style="text-decoration:none">: Lingo Systems' charges for the Service provided under this Agreement are unrelated to the value of your business or your other pursuits or to the potential for indirect, incidental, consequential, reliance, special, or other damages in excess of those allowed by this Agreement. When you use the Service, you agree to accept charges calculated on that basis and agree that this allocation of risk of liability is fair, reasonable, and not unconscionable. You retain the rights to purchase insurance to cover any additional loss or liability. Accordingly, the entire liability of Lingo Systems to you is limited as set forth hereafter.</span></p></body>
+               </exData>
+            </value>
+            <ui>
+               <textEdit/>
+            </ui>
+            <margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"/>
+            <para spaceAbove="6pt" spaceBelow="6pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+         </draw>
+         <bind match="none"/>
+         <?templateDesigner expand 1?>
+         <breakBefore targetType="pageArea" startNew="1"/>
+      </subform>
+      <subform w="195.731mm" h="206.678mm" name="TermsAndConditions2">
+         <draw x="10.417mm" y="1.341mm" w="6.862917in" h="8.084097in">
+            <font typeface="Verdana" baselineShift="0pt"/>
+            <value>
+               <exData contentType="text/html">
+                  <body xmlns="http://www.w3.org/1999/xhtml" xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/" xfa:APIVersion="2.7.0.0"><p style="margin-top:6pt;margin-bottom:6pt;font-size:8pt;text-decoration:none;letter-spacing:0in">A. Except when due to intentional or willful misconduct by Lingo Systems, the total liability of Lingo Systems and Lingo Systems' affiliates for loss or damage caused by defect or failure of the Service, or arising from the performance or nonperformance of any work under this Agreement, including (but not limited to) disclosure of information or untimely delivery, shall be limited to a credit or refund to you for services which are not provided or performed in accordance with this Agreement. For purposes of this Agreement, “Lingo Systems' affiliates” shall include Lingo Systems' officers, employees, agents, subcontractors, and suppliers. This limitation shall apply regardless of the form of action, whether in contract, tort, including negligence, strict liability, or otherwise.</p><p style="margin-top:6pt;margin-bottom:6pt;font-size:8pt;text-decoration:none;letter-spacing:0in">B. Neither Lingo Systems nor Lingo Systems' affiliates shall be liable in any event for any indirect, incidental, special, or consequential damages, arising directly or indirectly from any action or failure to act by Lingo Systems or any Lingo Systems' affiliates whether or not it had any knowledge, actual or constructive, that such damages might be incurred. This provision specifically includes, but is not limited to, damages resulting in loss of profits or income. Lingo Systems and Lingo Systems' affiliates shall not be responsible for damages due to causes beyond the reasonable control of Lingo Systems or attributable to any service, products, or actions of any person other than Lingo Systems, its employees, subcontractors, and agents. This limitation of liability shall apply regardless of the form of action, whether in contract, tort, including negligence ,strict liability, or otherwise.</p><p style="margin-top:6pt;margin-bottom:6pt;font-size:8pt;text-decoration:underline;letter-spacing:0in">10. Customer Property<span style="text-decoration:none">: Your property delivered to Lingo Systems for use in the production of work is received, used, stored, and returned to you upon completion of the work by Lingo Systems without any liability for loss or damage.</span></p><p style="margin-top:6pt;margin-bottom:6pt;font-size:8pt;text-decoration:underline;letter-spacing:0in">11. Confidentiality<span style="text-decoration:none">: To the extent permitted by law, Lingo Systems will make reasonable efforts to ensure the confidentiality of your information provided to Lingo Systems pursuant to this Agreement. However, absolute confidentiality of your information provided to Lingo Systems is not guaranteed by Lingo Systems.</span></p><p style="margin-top:6pt;margin-bottom:6pt;font-size:8pt;text-decoration:underline;letter-spacing:0in">12. Subcontracting<span style="text-decoration:none">: Lingo Systems may subcontract any or all of the work to be performed by it under this Agreement, but subject to the exclusions and limitations of liability provided under this Agreement, shall retain the responsibility for the work that is subcontracted.</span></p><p style="margin-top:6pt;margin-bottom:6pt;font-size:8pt;text-decoration:underline;letter-spacing:0in">13. Indemnification<span style="text-decoration:none">: Lingo Systems and Lingo Systems' affiliates shall not be liable for the use or content of the translated and other materials, including, but not limited to, any infringement of copyrights or licenses, any false, misleading, or offensive statements, or statements which violate state or federal law. You agree that you will be solely liable with respect to the content of your translated and other materials, and its use, and will indemnify and hold Lingo Systems harmless for any costs or damages, including litigation costs and attorney fees, it incurs with respect to such content or use.</span></p><p style="margin-top:6pt;margin-bottom:6pt;font-size:8pt;text-decoration:underline;letter-spacing:0in">14. Force Majeure<span style="text-decoration:none">: Neither Lingo Systems nor Lingo Systems affiliates shall be liable in any way for any loss, damage, delay of failure of performance resulting directly or indirectly from any cause beyond its reasonable control, including, but not limited to, an act of God, fire or other catastrophe, electrical, computer, or mechanical failure, work stoppage, or delays or failure, act of any carrier or agent, or any other cause beyond its control, whether or not similar to the foregoing. The preceding statements shall not excuse your obligation to pay charges for services provided pursuant to this Agreement.</span></p><p style="margin-top:6pt;margin-bottom:6pt;font-size:8pt;text-decoration:underline;letter-spacing:0in">15. Severability<span style="text-decoration:none">: If any provision of this Agreement is held to be invalid, unenforceable, or void, then the meaning of such provision shall be construed so as to render it enforceable to the extent feasible. If no feasible interpretation would save such provision, it shall be severed from this Agreement with respect to the matter in question and the remainder of the Agreement shall continue in full force and effect. However, if such provision is considered an important element of the Agreement, the parties shall promptly negotiate a replacement.</span></p><p style="margin-top:6pt;margin-bottom:6pt;font-size:8pt;text-decoration:underline;letter-spacing:0in">16. No Waiver<span style="text-decoration:none">: The failure of either party at any time to enforce any right or remedy available to it under this Agreement in a particular instance shall not be construed to be a waiver of a right or remedy in subsequent instances.</span></p><p style="margin-top:6pt;margin-bottom:6pt;font-size:8pt;text-decoration:underline;letter-spacing:0in">17. Choice of Law<span style="text-decoration:none">: This Agreement shall be interpreted under the laws of the State of Oregon.</span></p><p style="font-size:8pt;text-decoration:underline;letter-spacing:0in">18. Attorney Fees<span style="text-decoration:none">: In the event a suit or action is brought to enforce or interpret any of the provisions of this Agreement, the prevailing party shall be entitled to reasonable attorney fees in connection therewith. The determination of whom is the prevailing party and the amount of the reasonable attorney fees to be paid to the prevailing party shall be decided by the court or courts, including any appellate court, in which such matter is tried, heard, or decided.</span></p></body>
+               </exData>
+            </value>
+            <ui>
+               <textEdit/>
+            </ui>
+            <margin leftInset="0.5mm" rightInset="0.5mm" topInset="0.5mm" bottomInset="0.5mm"/>
+            <para spaceAbove="0pt" spaceBelow="0pt" textIndent="0pt" marginLeft="0pt" marginRight="0pt"/>
+         </draw>
+         <traversal>
+            <traverse operation="first" ref="#draw[0]"/>
+         </traversal>
+         <bind match="none"/>
+         <?templateDesigner expand 1?>
+         <breakBefore targetType="pageArea" startNew="1"/>
+      </subform>
+      <proto/>
+      <?templateDesigner expand 1?>
+      <?renderCache.subset "Minion Pro" 0 0 ISO-8859-1 4 168 42 0001000D000F001100120013001400150016001700180019001A001B00220027002D00300031003400360038004200440045004600480049004A004C004D004E004F00500052005300540055005600580059005A ,.0123456789:AFLOPSUWacdeghiklmnoqrstuwxy?>
+      <?renderCache.subset "Minion Pro" 0 1 ISO-8859-1 4 40 10 00240042004500460047004A004D004F00500055Cadefilnot?>
+      <?renderCache.subset "Myriad Pro" 0 0 ISO-8859-1 4 252 65 000100020004000B000D000E000F0010001100120013001400150016001700180019001A001B00220023002400250026002A002D002E002F00300031003200330034003500360038003A00420043004400450046004700480049004A004B004C004D004E004F0050005100520053005400550056005700580059005A0074 !#*,-./0123456789:ABCDEILMNOPQRSTUWYabcdefghijklmnopqrstuvwxy•?>
+      <?renderCache.subset "Myriad Pro" 1 0 ISO-8859-1 4 48 12 0001002D003400460048004A004E004F005000540055005A LSegimnosty?>
+      <?renderCache.subset "Myriad Pro" 0 1 ISO-8859-1 4 44 11 000F00440048004A004D004E004F005000540058005A.cgilmnoswy?>
+      <?renderCache.subset "Verdana" 0 0 ISO-8859-1 4 276 73 000300050008000A000B000C000F0010001100120013001400150016001700180019001A001B001C001D002400250026002700280029002A002B002C002F00300031003200330035003600370038003A003C004400450046004700480049004A004B004C004D004E004F0050005100520053005400550056005700580059005A005B005C005D00B300B4 "%'(),-./0123456789:ABCDEFGHILMNOPRSTUWYabcdefghijklmnopqrstuvwxyz“”?></subform>
+   <?originalXFAVersion http://www.xfa.org/schema/xfa-template/2.1/?>
+   <?templateDesigner SavePDFWithLog 0?>
+   <?templateDesigner DefaultLanguage JavaScript?>
+   <?templateDesigner DefaultRunAt client?>
+   <?PDFPrintOptions embedViewerPrefs 0?>
+   <?PDFPrintOptions embedPrintOnFormOpen 0?>
+   <?PDFPrintOptions duplexMode 0?>
+   <?templateDesigner DefaultPreviewType interactive?>
+   <?templateDesigner DefaultPreviewPagination simplex?>
+   <?templateDesigner XDPPreviewFormat 20?>
+   <?templateDesigner DefaultPreviewDataFileName C:\Documents and Settings\mikevg\Desktop\Brightcove--Apr-09-2010-1604.xml?>
+   <?templateDesigner FormTargetVersion 25?>
+   <?templateDesigner Zoom 121?>
+   <?templateDesigner SaveTaggedPDF 0?>
+   <?templateDesigner SavePDFWithEmbeddedFonts 0?>
+   <?templateDesigner Rulers horizontal:1, vertical:1, guidelines:1, crosshairs:0?></template>
+<config xmlns="http://www.xfa.org/schema/xci/2.8/">
+   <agent name="designer">
+      <destination>pdf</destination>
+      <pdf>
+         <!--  [0..n]  -->
+         <fontInfo/>
+      </pdf>
+   </agent>
+   <present>
+      <!--  [0..n]  -->
+      <pdf>
+         <!--  [0..n]  -->
+         <fontInfo>
+            <embed>0</embed>
+         </fontInfo>
+         <tagged>0</tagged>
+         <version>1.7</version>
+      </pdf>
+      <common>
+         <data>
+            <xsl>
+               <uri/>
+            </xsl>
+            <outputXSL>
+               <uri/>
+            </outputXSL>
+         </data>
+      </common>
+      <cache>
+         <macroCache/>
+      </cache>
+      <xdp>
+         <packets>*</packets>
+      </xdp>
+   </present>
+</config>
+<xfa:datasets xmlns:xfa="http://www.xfa.org/schema/xfa-data/1.0/">
+   <xfa:data xfa:dataNode="dataGroup"/>
+   <dd:dataDescription xmlns:dd="http://ns.adobe.com/data-description/" dd:name="form1">
+      <form1>
+         <EstimateHead>
+            <header>
+               <ClientName/>
+               <ClientContact/>
+               <Representative/>
+               <projectmanager/>
+               <Date/>
+               <projectdescription/>
+            </header>
+            <services dd:maxOccur="-1">
+               <servicename/>
+            </services>
+            <Summary>
+               <totalcost/>
+               <timeline/>
+               <paymentterms/>
+            </Summary>
+         </EstimateHead>
+         <EstimateDetail>
+            <AnalysisHead>
+               <Table1>
+                  <Row1/>
+               </Table1>
+            </AnalysisHead>
+            <Language dd:maxOccur="-1">
+               <Language/>
+               <TASK dd:maxOccur="-1">
+                  <taskname/>
+                  <NUMUNIT/>
+                  <COSTPERUNIT/>
+                  <COST/>
+                  <MARKUP/>
+                  <CALCSELL/>
+                  <ACTSELLPER/>
+                  <ACTSELL/>
+                  <GM/>
+               </TASK>
+               <LANGTOTAL/>
+            </Language>
+            <Assumptions>
+               <TextField1/>
+            </Assumptions>
+         </EstimateDetail>
+         <TermsAndConditions1/>
+         <TermsAndConditions2/>
+      </form1>
+   </dd:dataDescription>
+</xfa:datasets>
+<sourceSet xmlns="http://www.xfa.org/schema/xfa-source-set/2.8/">
+   <?originalXFAVersion http://www.xfa.org/schema/xfa-source-set/1.0/?></sourceSet>
+<connectionSet xmlns="http://www.xfa.org/schema/xfa-connection-set/2.8/">
+   <xmlConnection name="DataConnection" dataDescription="form1">
+      <uri>M:\transfer\MikeVG\Invoice\test_data.xml</uri>
+   </xmlConnection>
+   <?originalXFAVersion http://www.xfa.org/schema/xfa-connection-set/2.1/?></connectionSet>
+<localeSet xmlns="http://www.xfa.org/schema/xfa-locale-set/2.1/">
+   <locale name="es_ES" desc="Spanish (International Sort)">
+      <calendarSymbols name="gregorian">
+         <monthNames>
+            <month>enero</month>
+            <month>febrero</month>
+            <month>marzo</month>
+            <month>abril</month>
+            <month>mayo</month>
+            <month>junio</month>
+            <month>julio</month>
+            <month>agosto</month>
+            <month>septiembre</month>
+            <month>octubre</month>
+            <month>noviembre</month>
+            <month>diciembre</month>
+         </monthNames>
+         <monthNames abbr="1">
+            <month>ene</month>
+            <month>feb</month>
+            <month>mar</month>
+            <month>abr</month>
+            <month>may</month>
+            <month>jun</month>
+            <month>jul</month>
+            <month>ago</month>
+            <month>sep</month>
+            <month>oct</month>
+            <month>nov</month>
+            <month>dic</month>
+         </monthNames>
+         <dayNames>
+            <day>domingo</day>
+            <day>lunes</day>
+            <day>martes</day>
+            <day>miércoles</day>
+            <day>jueves</day>
+            <day>viernes</day>
+            <day>sábado</day>
+         </dayNames>
+         <dayNames abbr="1">
+            <day>dom</day>
+            <day>lun</day>
+            <day>mar</day>
+            <day>mié</day>
+            <day>jue</day>
+            <day>vie</day>
+            <day>sáb</day>
+         </dayNames>
+         <meridiemNames>
+            <meridiem>AM</meridiem>
+            <meridiem>PM</meridiem>
+         </meridiemNames>
+         <eraNames>
+            <era>a.C.</era>
+            <era>d.C.</era>
+         </eraNames>
+      </calendarSymbols>
+      <datePatterns>
+         <datePattern name="full">EEEE D' de 'MMMM' de 'YYYY</datePattern>
+         <datePattern name="long">D' de 'MMMM' de 'YYYY</datePattern>
+         <datePattern name="med">DD/MM/YYYY</datePattern>
+         <datePattern name="short">DD/MM/YY</datePattern>
+      </datePatterns>
+      <timePatterns>
+         <timePattern name="full">HH'H'MM''''SS" Z</timePattern>
+         <timePattern name="long">HH:MM:SS Z</timePattern>
+         <timePattern name="med">H:MM:SS</timePattern>
+         <timePattern name="short">H:MM</timePattern>
+      </timePatterns>
+      <dateTimeSymbols>GuMtkhmsSEDFwWahKzZ</dateTimeSymbols>
+      <numberPatterns>
+         <numberPattern name="numeric">z,zz9.zzz</numberPattern>
+         <numberPattern name="currency">z,zz9.99 $</numberPattern>
+         <numberPattern name="percent">z,zz9%</numberPattern>
+      </numberPatterns>
+      <numberSymbols>
+         <numberSymbol name="decimal">,</numberSymbol>
+         <numberSymbol name="grouping">.</numberSymbol>
+         <numberSymbol name="percent">%</numberSymbol>
+         <numberSymbol name="minus">-</numberSymbol>
+         <numberSymbol name="zero">0</numberSymbol>
+      </numberSymbols>
+      <currencySymbols>
+         <currencySymbol name="symbol">€</currencySymbol>
+         <currencySymbol name="isoname">EUR</currencySymbol>
+         <currencySymbol name="decimal">,</currencySymbol>
+      </currencySymbols>
+      <typefaces>
+         <typeface name="Myriad Pro"/>
+         <typeface name="Minion Pro"/>
+         <typeface name="Courier Std"/>
+         <typeface name="Adobe Pi Std"/>
+         <typeface name="Adobe Hebrew"/>
+         <typeface name="Adobe Arabic"/>
+         <typeface name="Adobe Thai"/>
+         <typeface name="Kozuka Gothic Pro-VI M"/>
+         <typeface name="Kozuka Mincho Pro-VI R"/>
+         <typeface name="Adobe Ming Std L"/>
+         <typeface name="Adobe Song Std L"/>
+         <typeface name="Adobe Myungjo Std M"/>
+      </typefaces>
+   </locale>
+   <locale name="en_US" desc="English (United States)">
+      <calendarSymbols name="gregorian">
+         <monthNames>
+            <month>January</month>
+            <month>February</month>
+            <month>March</month>
+            <month>April</month>
+            <month>May</month>
+            <month>June</month>
+            <month>July</month>
+            <month>August</month>
+            <month>September</month>
+            <month>October</month>
+            <month>November</month>
+            <month>December</month>
+         </monthNames>
+         <monthNames abbr="1">
+            <month>Jan</month>
+            <month>Feb</month>
+            <month>Mar</month>
+            <month>Apr</month>
+            <month>May</month>
+            <month>Jun</month>
+            <month>Jul</month>
+            <month>Aug</month>
+            <month>Sep</month>
+            <month>Oct</month>
+            <month>Nov</month>
+            <month>Dec</month>
+         </monthNames>
+         <dayNames>
+            <day>Sunday</day>
+            <day>Monday</day>
+            <day>Tuesday</day>
+            <day>Wednesday</day>
+            <day>Thursday</day>
+            <day>Friday</day>
+            <day>Saturday</day>
+         </dayNames>
+         <dayNames abbr="1">
+            <day>Sun</day>
+            <day>Mon</day>
+            <day>Tue</day>
+            <day>Wed</day>
+            <day>Thu</day>
+            <day>Fri</day>
+            <day>Sat</day>
+         </dayNames>
+         <meridiemNames>
+            <meridiem>AM</meridiem>
+            <meridiem>PM</meridiem>
+         </meridiemNames>
+         <eraNames>
+            <era>BC</era>
+            <era>AD</era>
+         </eraNames>
+      </calendarSymbols>
+      <datePatterns>
+         <datePattern name="full">EEEE, MMMM D, YYYY</datePattern>
+         <datePattern name="long">MMMM D, YYYY</datePattern>
+         <datePattern name="med">MMM D, YYYY</datePattern>
+         <datePattern name="short">M/D/YY</datePattern>
+      </datePatterns>
+      <timePatterns>
+         <timePattern name="full">h:MM:SS A Z</timePattern>
+         <timePattern name="long">h:MM:SS A Z</timePattern>
+         <timePattern name="med">h:MM:SS A</timePattern>
+         <timePattern name="short">h:MM A</timePattern>
+      </timePatterns>
+      <dateTimeSymbols>GyMdkHmsSEDFwWahKzZ</dateTimeSymbols>
+      <numberPatterns>
+         <numberPattern name="numeric">z,zz9.zzz</numberPattern>
+         <numberPattern name="currency">$z,zz9.99|($z,zz9.99)</numberPattern>
+         <numberPattern name="percent">z,zz9%</numberPattern>
+      </numberPatterns>
+      <numberSymbols>
+         <numberSymbol name="decimal">.</numberSymbol>
+         <numberSymbol name="grouping">,</numberSymbol>
+         <numberSymbol name="percent">%</numberSymbol>
+         <numberSymbol name="minus">-</numberSymbol>
+         <numberSymbol name="zero">0</numberSymbol>
+      </numberSymbols>
+      <currencySymbols>
+         <currencySymbol name="symbol">$</currencySymbol>
+         <currencySymbol name="isoname">USD</currencySymbol>
+         <currencySymbol name="decimal">.</currencySymbol>
+      </currencySymbols>
+      <typefaces>
+         <typeface name="Myriad Pro"/>
+         <typeface name="Minion Pro"/>
+         <typeface name="Courier Std"/>
+         <typeface name="Adobe Pi Std"/>
+         <typeface name="Adobe Hebrew"/>
+         <typeface name="Adobe Arabic"/>
+         <typeface name="Adobe Thai"/>
+         <typeface name="Kozuka Gothic Pro-VI M"/>
+         <typeface name="Kozuka Mincho Pro-VI R"/>
+         <typeface name="Adobe Ming Std L"/>
+         <typeface name="Adobe Song Std L"/>
+         <typeface name="Adobe Myungjo Std M"/>
+      </typefaces>
+   </locale>
+</localeSet>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 4.2.1-c041 52.337767, 2008/04/13-15:41:00        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description xmlns:pdf="http://ns.adobe.com/pdf/1.3/" rdf:about="">
+         <pdf:Producer>Adobe LiveCycle Designer ES 8.2</pdf:Producer>
+      </rdf:Description>
+      <rdf:Description xmlns:xmp="http://ns.adobe.com/xap/1.0/" rdf:about="">
+         <xmp:CreatorTool>Adobe LiveCycle Designer ES 8.2</xmp:CreatorTool>
+         <xmp:ModifyDate>2010-03-17T11:00:54-07:00</xmp:ModifyDate>
+         <xmp:CreateDate>2010-02-17T10:45:50-08:00</xmp:CreateDate>
+         <xmp:MetadataDate>2010-04-13T16:07:03Z</xmp:MetadataDate>
+      </rdf:Description>
+      <rdf:Description xmlns:dc="http://purl.org/dc/elements/1.1/" rdf:about="">
+         <dc:format>application/pdf</dc:format>
+         <dc:creator>
+            <rdf:Seq>
+               <rdf:li>cball</rdf:li>
+            </rdf:Seq>
+         </dc:creator>
+         <dc:title>
+            <rdf:Alt>
+               <rdf:li xml:lang="x-default">Microsoft Word - Lingo Estimate_FIS eBanking Application Localization_17Feb10.doc</rdf:li>
+            </rdf:Alt>
+         </dc:title>
+      </rdf:Description>
+      <rdf:Description xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" rdf:about="">
+         <xmpMM:DocumentID>uuid:1ce915b1-6261-4aa3-8c9a-457211dd5e34</xmpMM:DocumentID>
+         <xmpMM:InstanceID>uuid:58009072-2451-4987-ac99-112320206c39</xmpMM:InstanceID>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta></xdp:xdp>
