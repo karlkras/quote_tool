@@ -7,6 +7,7 @@ function parse_language_table(&$languageTbl, $root)
 	foreach ($root->getElementsByTagName('languagepair') as $language)
 	{
 		$languageTbl[$output] = new lingo_languagePair;
+		#print foobar
 		
 		$languageTbl[$output]->set_sourceLang( $language->getElementsByTagName('srclang')->item(0)->nodeValue );
 		$languageTbl[$output]->set_targetLang( $language->getElementsByTagName('tgtlang')->item(0)->nodeValue );
